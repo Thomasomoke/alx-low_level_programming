@@ -5,8 +5,7 @@
  *
  * Return: Always 0.
  */
-int print_last_digit(int)
-	int main(void)
+int main(void)
 {
     int r;
 

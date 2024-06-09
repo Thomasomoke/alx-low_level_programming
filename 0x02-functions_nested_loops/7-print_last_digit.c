@@ -12,6 +12,7 @@ int print_last_digit(int r)
 	{
 		last_digit = -last_digit;
 	}
-	printf("%d\n", last_digit);
+	_putchar(last_digit);
 	return (last_digit);
 }
+
